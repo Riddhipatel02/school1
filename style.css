@@ -1,0 +1,8 @@
+.navbar-inverse{
+    background: linear-gradient(#000000 0%,#474747 100%);
+    font-family: cursive;
+}
+marquee{
+    font-family:cursive;
+    font-weight: bolder;
+}
